@@ -8,7 +8,7 @@ I’m an applied AI engineer focused on production agents, developer tools, and 
 
 - **[Glide](https://github.com/EinStack/glide)** — Maintainer and contributor to an open-source multi-model LLM gateway. Built provider and streaming support for Anthropic, AWS Bedrock, Cohere, Azure OpenAI, and Ollama.
 - **[Claude Parallel](https://github.com/mkrueger12/claude-parallel)** — A reusable workflow that runs multiple coding-agent implementations, reviews them, and opens the strongest result as a draft pull request.
-- **[Council Commons](https://github.com/mkrueger12/council-commons)** — A tool for finding recurring themes across city council meetings.
+- **[Twinpod](https://github.com/mkrueger12/twinpod)** — An issue-orchestration daemon that runs Linear work through isolated coding-agent workspaces.
 - **[RL Curriculum](https://github.com/mkrueger12/rl-curriculum)** — A 12-week, project-first curriculum for building reinforcement-learning environments, verifiers, and evaluations.
 
 ## Production work
