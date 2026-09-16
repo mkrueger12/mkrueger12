@@ -11,7 +11,7 @@ I’m an applied AI engineer focused on production agents, developer tools, and 
 - **[Council Commons](https://github.com/mkrueger12/council-commons)** — An early-stage project exploring recurring themes across city council meetings.
 - **[RL Curriculum](https://github.com/mkrueger12/rl-curriculum)** — A 12-week, project-first curriculum for building reinforcement-learning environments, verifiers, and evaluations.
 
-## Production work
+## AI Agent Case Study
 
 I owned the development of a production AI quoting agent used by plumbing-supply warehouses. It reduced first-pass quote generation from 128 hours to 30 minutes.
 
