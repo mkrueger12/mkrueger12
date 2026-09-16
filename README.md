@@ -13,7 +13,7 @@ I’m an applied AI engineer focused on production agents, developer tools, and 
 
 ## Production work
 
-At Abel, I owned the development of a production AI quoting agent used by plumbing-supply warehouses. It reduced first-pass quote generation from 128 hours to 30 minutes.
+I owned the development of a production AI quoting agent used by plumbing-supply warehouses. It reduced first-pass quote generation from 128 hours to 30 minutes.
 
 [Read the technical case study](https://gistpreview.github.io/?1602f25ca058eb3141f3ab396f317f86/abel-quoting-agent-case-study.html)
 
